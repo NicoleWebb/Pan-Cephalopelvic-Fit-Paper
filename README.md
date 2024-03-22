@@ -1,4 +1,4 @@
-# NEE-Pan-Paper
+# Pan Cephalopelvic Fit Assesment
 
 This repository contains the code to showcase the various analyses executed in a study currently under consideration for publication. 
 
