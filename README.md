@@ -6,7 +6,8 @@ Usage Notes:
 
 -The purpose of this repository is primarily for reproducibility and to show interested third parties the details of the conducted analyses and their associated visualizations. The analyses are standard 3D GM analyses using common code assocaited with morphometric packages in R (see below).
 
--Some of the R and matlab scripts may occasionally contain references to .ply and .csvs files that are too large to conveniently share within this respository; however, they will happily be made available if a formal request is sent to nicole.webb@senckenberg.de
+-Some of the R and MATLAB scripts may occasionally contain references to .ply and .csvs files that are too large to conveniently share within this respository; however, they will happily be made available if a formal request is sent to nicole.webb@senckenberg.de (the same applies to raw image data etc.)
+
 
 R code relevant citations: 
 
@@ -31,6 +32,6 @@ Matlab code info:
 
 The script for calculating the distances between the mean fetal head and maternal pelvic meshes is a simple loop that takes all linear distances and then calculates a mean based on a user specified percentage. There is an option to change the "granularity" which means you can reduce the same of distances to shorten computation time. The original .csv files were quite large because of their resolution which is why they will have to be independently requested from the authors to successfully run the provided script. 
 
--Owing to data-sharing agreements, it is not possible to share all of the raw scan images used in the study. 
+
 
 
