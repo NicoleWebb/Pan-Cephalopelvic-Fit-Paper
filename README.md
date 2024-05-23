@@ -30,7 +30,7 @@ Package: Morpho
 
 Matlab code info:
 
-The script for calculating the distances between the mean fetal head and maternal pelvic meshes is a simple loop that takes all linear distances and then calculates a mean based on a user specified percentage. There is an option to change the "granularity" which means you can reduce the same of distances to shorten computation time. The original .csv files were quite large because of their resolution which is why they will have to be independently requested from the authors to successfully run the provided script. 
+The script for calculating the distances between the mean fetal head and maternal pelvic meshes is a simple loop that takes all linear distances and then calculates a mean based on a user specified percentage. There is an option to change the "granularity" which means you can reduce the sampling of the distances used in order to shorten computation time. The original .csv files were quite large because of their resolution which is why they will have to be independently requested from the authors to successfully run the provided script. However, the authors are happy to share all data and to support those interested in replicating the analyses.
 
 
 
